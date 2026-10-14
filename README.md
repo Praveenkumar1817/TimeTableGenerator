@@ -264,15 +264,7 @@ Time Table Generator/
 
 ---
 
-## 📑 Academic Deliverables Included in this Repository
 
-| Deliverable File | Format | Description |
-| :--- | :--- | :--- |
-| [`PROJECT_REPORT.docx`](./PROJECT_REPORT.docx) | Microsoft Word | Complete 20+ page formal academic report formatted per Anna University guidelines, complete with literature review, mathematical modeling, system design, test cases, and references. |
-| [`PROJECT_PRESENTATION.pptx`](./PROJECT_PRESENTATION.pptx) | Microsoft PowerPoint | 14-slide presentation deck with high-contrast palette, key constraint matrices, architecture diagrams, and benchmark charts for project defense. |
-| [`PROJECT_REPORT.html`](./PROJECT_REPORT.html) | HTML5 / Print CSS | Clean, responsive, high-fidelity web version of the project report equipped with CSS page-break rules for printing to PDF. |
-
----
 
 ## 🛠️ REST API Endpoints Overview
 
